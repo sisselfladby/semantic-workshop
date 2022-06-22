@@ -3,7 +3,7 @@
 Dette prosjektet er laget for å gi innsikt i hvordan vi kan skrive semantisk korrekt html på prosjektene våre. Vi
 starter med usemantisk HTML, og gjør det sakte men sikkert om til semantisk HTML.
 
-Åpne terminalen og last ned repoet (f. eks ved å skrive `git clone git@github.com:sisselfladby/semantic-workshop.git.`)
+Åpne terminalen og last ned repoet (f. eks ved å skrive `git clone git@github.com:sisselfladby/semantic-workshop.git`, eller `git clone https://github.com/sisselfladby/semantic-workshop.git`.)
 
 Her finner du tre filer i roten - `README.md` er denne fila, `index.html` er fila du starter med, og `losningsforslag.html` 
 er løsningsforslaget.
